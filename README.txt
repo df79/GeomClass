@@ -36,7 +36,7 @@ Usage
 =======================================
     1.Upload and/or select the vector layer to classify;
     2.Open geometric interval classification script in Python console;
-    3.Modify variables: name of the attribute field to classify and number of classes;
+    3.Set variables: name of the attribute field to classify and number of classes;
     4.Run the python script;
     5.Change color palette in Layer Properties dialog as you like.
 
